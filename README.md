@@ -26,10 +26,10 @@ Someday I'm gonna describe this world with AI...
 
 You can find me out there: \
 \
-![Static Badge](https://img.shields.io/badge/Telegram-Telegram?style=flat-square&logo=Telegram&color=blue&link=https%3A%2F%2Ft.me%2Fssssssense) 
-![Static Badge](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-VK?style=flat-square&logo=VK&color=%23197dfc&link=https%3A%2F%2Ft.me%2Fssssssense)
-![Static Badge](https://img.shields.io/badge/Mail.ru-Mail?style=flat-square&logo=Mail.ru&logoColor=yellow&color=%231955d5&link=https%3A%2F%2Ft.me%2Fssssssense)
-![Static Badge](https://img.shields.io/badge/Steam-steam?style=flat-square&logo=Steam&color=%23171a21&link=https%3A%2F%2Ft.me%2Fssssssense)
+<a href='https://t.me/ssssssense'><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-Tg?style=flat-square&logo=Telegram&color=blue"></a> 
+<a href='https://vk.com/ssssssense'><img alt="Static Badge" src="https://img.shields.io/badge/VKontakte-Vk?style=flat-square&logo=VK&color=%23197dfc"></a>
+<a href='https://vk.com/ssssssense'><img alt="Static Badge" src="https://img.shields.io/badge/Steam-St?style=flat-square&logo=Steam&color=black"></a><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru - ko4erov02@mail.ru-mail?style=flat-square&logo=Mail.ru&&labelColor=%231955d5&logoColor=yellow&color=grey">
 
 <hr>
 
