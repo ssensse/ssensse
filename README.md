@@ -28,7 +28,7 @@ You can find me out there: \
 \
 <a href='https://t.me/ssssssense' target='_blank'><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-Tg?style=flat-square&logo=Telegram&color=blue"></a> 
 <a href='https://vk.com/ssssssense' target='_blank'><img alt="Static Badge" src="https://img.shields.io/badge/VKontakte-Vk?style=flat-square&logo=VK&color=%23197dfc"></a>
-<a href='https://vk.com/ssssssense' target='_blank'><img alt="Static Badge" src="https://img.shields.io/badge/Steam-St?style=flat-square&logo=Steam&color=black"></a><br>
+<a href='https://steamcommunity.com/id/sssense' target='_blank'><img alt="Static Badge" src="https://img.shields.io/badge/Steam-St?style=flat-square&logo=Steam&color=black"></a><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru - ko4erov02@mail.ru-mail?style=flat-square&logo=Mail.ru&&labelColor=%231955d5&logoColor=yellow&color=grey">
 
 <hr>
