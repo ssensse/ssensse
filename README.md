@@ -35,15 +35,28 @@ You can find me out there: \
 
 <h3>💥Interests</h3>
 
-Professional Interests:
-- ⚖️Statistics
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />Machine Learning algorithms
-- 📊Data visualization
-
-Creative Interests:
-- 🎸Guitar playing
-- 🎧Black Metal music
-- 🎬Movies
-- 🎮Video Games
+<table>
+  <tr>
+    <td>Professional Interests:</td>
+    <td>Creative Interests:</td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>⚖️Statistics</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />Machine Learning algorithms</li>
+        <li>📊Data visualization</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎸Guitar playing</li>
+        <li>🎧Black Metal music</li>
+        <li>🎬Movies</li>
+        <li>🎮Video Games</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align='center'><img width=250px src='https://media1.tenor.com/m/0pnQabk3vHUAAAAC/mewo-omori.gif'></div>
