@@ -16,7 +16,7 @@
 
 <h3>💥About Me</h3>
 
-I'm 21 years old insane and unstoppable **Data Scientist** *(just a student)* from Russia... \
+I'm 22 years old insane and unstoppable **Data Scientist** *(just a student)* from Russia... \
 \
 Well I'm really in love with math, statistics and the other science stuffs, but not because I'm a nerd or something... \
 \
@@ -58,5 +58,5 @@ You can find me out there: \
     </td>
   </tr>
 </table>
-
+<a href=http://www.sql-ex.ru/users_page.php?uid=735342><img src=http://www.sql-ex.ru/images/rate_btn/image.php?id=735342&ban=5 alt='SQL Exercises Rank'></a>
 <div align='center'><img width=250px src='https://media1.tenor.com/m/0pnQabk3vHUAAAAC/mewo-omori.gif'></div>
