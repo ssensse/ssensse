@@ -59,4 +59,6 @@ You can find me out there: \
   </tr>
 </table>
 <a href=http://www.sql-ex.ru/users_page.php?uid=735342><img src=http://www.sql-ex.ru/images/rate_btn/image.php?id=735342&ban=5 alt='SQL Exercises Rank'></a>
+<a target="_blank" href="http://www.sql-ex.ru/certification/confirm.php?cert_id=A24735342 "><img src="http://www.sql-ex.ru/certification/csbtn.php?cert_id=A24735342 " alt="SQL DML Certified Professional" border="0" width="88" height="31"></a>
+
 <div align='center'><img width=250px src='https://media1.tenor.com/m/0pnQabk3vHUAAAAC/mewo-omori.gif'></div>
