@@ -12,14 +12,10 @@
 <br>
 <hr>
 
-<img alt="gif" width=400px align='right' src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif">
+<img alt="gif" width=300px align='right' src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif">
 
 <h3>💥About Me</h3>
 
-I'm 22 years old insane and unstoppable **Data Scientist** *(just a student)* from Russia... \
-\
-Well I'm really in love with math, statistics and the other science stuffs, but not because I'm a nerd or something... \
-\
 Someday I'm gonna describe this world with AI... 
 
 <h3>💥Contacts</h3>
